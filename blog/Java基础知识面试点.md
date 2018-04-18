@@ -231,5 +231,47 @@ Serializable是Java中的序列化接口，其使用起来简单但 是开销很
 - [相关文章](https://blog.csdn.net/WuchangI/article/details/79182850)
 
 ## 谈谈对kotlin的理解
+因人而异，请自行整理答案
 
-## string 转换成 integer的方式及原理
+## String 转换成 integer的方式及原理
+```Java
+Integer a = 2;
+private void test() {
+    String s1 = a.toString();  //方式一
+    String s2 = Integer.toString(a);  //方式二
+    String s3 = String.valueOf(a);  //方式三
+}
+```
+
+方式一源码：
+```Java
+    public String toString() {
+        return toString(value);
+    }
+
+    public static String toString(int i) {
+        if (i == Integer.MIN_VALUE)
+            return "-2147483648";
+        int size = (i < 0) ? stringSize(-i) + 1 : stringSize(i);
+        char[] buf = new char[size];
+        getChars(i, size, buf);
+        return new String(buf, true);
+    }
+```
+
+> 可以看出`方式一`最终调用的是`方式二`
+
+**通过toString()方法，可以把整数（包括0）转化为字符串，但是 Integer 如果是 null 的话，就会报空指针异常**
+
+方式三源码：
+
+```Java
+public static String valueOf(Object obj) {
+return (obj == null) ? "null" : obj.toString();
+}
+public String toString() {
+return getClass().getName() + "@" + Integer.toHexString(hashCode());
+}
+```
+
+> 可以看出 当 Integer 是null的时候，返回的String是 字符串 "null" 而不是 null
