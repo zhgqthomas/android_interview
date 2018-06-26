@@ -4,14 +4,35 @@
 
 ### 目录
 #### Java 相关
-- [Java 集合系列](#Java-集-合-系-列)
-- [Java 基础知识相关](https://github.com/zhgqthomas/android_interview/blob/master/blog/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E7%82%B9.md)
-- Java深入源码级的面试题
+- [Java 集合系列](#java-集合系列)
+- [Java 面试题](https://github.com/zhgqthomas/android_interview/blob/master/blog/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E7%82%B9.md)
 - 数据结构
 - 线程、多线程和线程池
 
 #### Java 集合系列
-
+- [Java集合源码分析之基础（一）：数组与链表](https://www.jianshu.com/p/1ee38f446d1b)
+- [Java集合源码分析之基础（二）：哈希表](https://www.jianshu.com/p/1031c23f080c)
+- [Java集合源码分析之基础（三）：树与二叉树](https://www.jianshu.com/p/c2ef8f3cd4e6)
+- [Java集合源码分析之基础（四）：二叉排序树](https://www.jianshu.com/p/fbef9cb79dcc)
+- [Java集合源码分析之基础（五）：平衡二叉树（AVL Tree）](https://www.jianshu.com/p/4f5eca987990)
+- [Java集合源码分析之基础（六）：红黑树（RB Tree）](https://www.jianshu.com/p/3958a1a11cb0)
+- [Java集合源码分析之Iterable概述](https://www.jianshu.com/p/8c4dae2c1ae0)
+- [Java集合源码分析之超级接口：Collection](https://www.jianshu.com/p/9af4ade0910a)
+- [Java集合源码分析之List（一）：超级接口List](https://www.jianshu.com/p/3574ef7cfe0f)
+- [Java集合源码分析之List（二）：ArrayList](https://www.jianshu.com/p/15e8e72ad0c8)
+- [Java集合源码分析之Queue（一）：超级接口Queue](https://www.jianshu.com/p/41752e1a0978)
+- [Java集合源码分析之Queue（二）：接口Deque](https://www.jianshu.com/p/20cd61fffcdb)
+- [Java集合源码分析之Queue（三）：ArrayDeque](https://www.jianshu.com/p/1c1c3f24762e)
+- [Java集合源码分析之LinkedList](https://www.jianshu.com/p/b9096e50267c)
+- [Java集合源码分析之Map（一）：超级接口Map](https://www.jianshu.com/p/43c9d2be2349)
+- [Java集合源码分析之Map（二）：接口SortedMap](https://www.jianshu.com/p/2bdf657f944a)
+- [Java集合源码分析之Map（三）：接口NavigableMap](https://www.jianshu.com/p/a54536f45059)
+- [Java集合源码分析之Map（四）：TreeMap](https://www.jianshu.com/p/ae2a445b231f)
+- [Java集合源码分析之Map（五）：HashMap](https://www.jianshu.com/p/f16bfeeeea88)
+- [Java集合源码分析之Map（六）：LinkedHashMap](https://www.jianshu.com/p/52b1e63b6893)
+- [Java集合源码分析之Set概述](https://www.jianshu.com/p/d68eea1a3a8c)
+#### Java 面试题
+- [Java 基础面试知识点](https://juejin.im/post/5b2dfe9ae51d4558d217d451)
 
 ### 相关材料
 - [BAT大厂面试题整理](https://mp.weixin.qq.com/s/p3l9wr4DX976Lr62-dYe8w)
