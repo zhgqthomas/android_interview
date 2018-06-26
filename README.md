@@ -4,7 +4,7 @@
 
 ### 目录
 #### Java 相关
-- [Java 集合系列](#Java-集合系列)
+- [Java 集合系列](#Java-集-合-系-列)
 - [Java 基础知识相关](https://github.com/zhgqthomas/android_interview/blob/master/blog/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E7%82%B9.md)
 - Java深入源码级的面试题
 - 数据结构
