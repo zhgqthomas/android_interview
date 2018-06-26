@@ -3,12 +3,21 @@
 该项目起源自鸿洋大神微信公众号中的[BAT大厂面试题整理](https://mp.weixin.qq.com/s/p3l9wr4DX976Lr62-dYe8w)及[郭孝星](https://github.com/guoxiaoxing)的开源项目[android-interview](https://github.com/guoxiaoxing/android-interview)
 
 ### 目录
-#### Java 相关
+#### [算法](#算法相关)
+- [排序](#排序)
+
+#### [Java](#java-相关)
 - [Java 数据结构 & 集合系列](#java-集合系列)
 - [Java 面试题](#java-面试题)
 - 数据结构
 - 线程、多线程和线程池
 
+### 算法相关
+#### 排序
+- [排序算法之冒泡，选择，插入和希尔](https://juejin.im/post/5a448afb6fb9a044fa1a2992)
+- [排序算法之归并，快速，堆和桶](https://juejin.im/post/5b31ae466fb9a00e790083d2)
+
+### Java 相关
 #### Java 集合系列
 - [Java数据结构基础（一）：数组与链表](https://www.jianshu.com/p/1ee38f446d1b)
 - [Java数据结构基础（二）：哈希表](https://www.jianshu.com/p/1031c23f080c)
