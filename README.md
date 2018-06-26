@@ -4,18 +4,18 @@
 
 ### 目录
 #### Java 相关
-- [Java 集合系列](#java-集合系列)
-- [Java 面试题](https://github.com/zhgqthomas/android_interview/blob/master/blog/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E9%9D%A2%E8%AF%95%E7%82%B9.md)
+- [Java 数据结构 & 集合系列](#java-集合系列)
+- [Java 面试题](#java-面试题)
 - 数据结构
 - 线程、多线程和线程池
 
 #### Java 集合系列
-- [Java集合源码分析之基础（一）：数组与链表](https://www.jianshu.com/p/1ee38f446d1b)
-- [Java集合源码分析之基础（二）：哈希表](https://www.jianshu.com/p/1031c23f080c)
-- [Java集合源码分析之基础（三）：树与二叉树](https://www.jianshu.com/p/c2ef8f3cd4e6)
-- [Java集合源码分析之基础（四）：二叉排序树](https://www.jianshu.com/p/fbef9cb79dcc)
-- [Java集合源码分析之基础（五）：平衡二叉树（AVL Tree）](https://www.jianshu.com/p/4f5eca987990)
-- [Java集合源码分析之基础（六）：红黑树（RB Tree）](https://www.jianshu.com/p/3958a1a11cb0)
+- [Java数据结构基础（一）：数组与链表](https://www.jianshu.com/p/1ee38f446d1b)
+- [Java数据结构基础（二）：哈希表](https://www.jianshu.com/p/1031c23f080c)
+- [Java数据结构基础（三）：树与二叉树](https://www.jianshu.com/p/c2ef8f3cd4e6)
+- [Java数据结构基础（四）：二叉排序树](https://www.jianshu.com/p/fbef9cb79dcc)
+- [Java数据结构基础（五）：平衡二叉树（AVL Tree）](https://www.jianshu.com/p/4f5eca987990)
+- [Java数据结构基础（六）：红黑树（RB Tree）](https://www.jianshu.com/p/3958a1a11cb0)
 - [Java集合源码分析之Iterable概述](https://www.jianshu.com/p/8c4dae2c1ae0)
 - [Java集合源码分析之超级接口：Collection](https://www.jianshu.com/p/9af4ade0910a)
 - [Java集合源码分析之List（一）：超级接口List](https://www.jianshu.com/p/3574ef7cfe0f)
