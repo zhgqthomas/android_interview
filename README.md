@@ -12,6 +12,10 @@
 - 数据结构
 - 线程、多线程和线程池
 
+#### [网络](#网络)
+- [TCP/IP](#tcp-ip)
+- [HTTP 相关](#http-相关)
+
 ### 算法相关
 #### 排序
 - [排序算法之冒泡，选择，插入和希尔](https://juejin.im/post/5a448afb6fb9a044fa1a2992)
@@ -42,6 +46,14 @@
 - [Java集合源码分析之Set概述](https://www.jianshu.com/p/d68eea1a3a8c)
 #### Java 面试题
 - [Java 基础面试知识点](https://juejin.im/post/5b2dfe9ae51d4558d217d451)
+
+### 网络
+#### TCP IP
+- [关于 TCP 需要了解的事儿](https://juejin.im/post/5b8ccda1e51d4538c77ab254)
+
+#### HTTP 相关
+- [带你从零到一理解 HTTPS](https://juejin.im/post/5a2fd1216fb9a045204c315e)
+- [具有代表性的 HTTP 状态码](https://juejin.im/post/5a276865f265da432c23b8d2)
 
 ### 相关材料
 - [BAT大厂面试题整理](https://mp.weixin.qq.com/s/p3l9wr4DX976Lr62-dYe8w)
